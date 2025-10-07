@@ -1,4 +1,4 @@
-print('hi')
+print("hi")
 
 
 mult <- function(a, b) {
@@ -6,5 +6,5 @@ mult <- function(a, b) {
 }
 
 add <- function(a, b) {
-    a + b
+  a + b
 }
